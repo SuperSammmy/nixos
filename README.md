@@ -1,2 +1,2 @@
-# nixos
-Sammmy's NixOS System Repo
+# Sammmy's NixOS Repo
+All of my NixOS stuff
